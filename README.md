@@ -17,7 +17,7 @@ An easy solution for vite, reactjs, eslint & prettier setup for react projects.
 
 -   **Clone/Download this repo in your Project Directory**
 -   then use ```npm install``` or ```yarn install``` to install project dependecies
--   then use ```npm dev``` or ```yarn dev``` to run the project server
+-   then use ```npm run dev``` or ```yarn run dev``` to run the project server
 -   then use ```npm build``` or ```yarn build``` to get production build
 
 ## Support
